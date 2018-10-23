@@ -22,7 +22,7 @@
 ### [Učni list - Kotne funkcije v pravokotnem trikotniku.pdf](https://www.sc-nm.si/sss/si/file/download/824_4f7a2e4ab138/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20v%20pravokotnem%20trikotniku.pdf) 
 - 3
 
-### [Učni list - Raèunanje s koreni.pdf](https://www.sc-nm.si/sss/si/file/download/827_d73e71be4845/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20s%20koreni.pdf)
+### [Učni list - Računanje s koreni.pdf](https://www.sc-nm.si/sss/si/file/download/827_d73e71be4845/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20s%20koreni.pdf)
 - 2
 
 ### [Učni list - Kotne funkcije - 1.pdf](https://www.sc-nm.si/sss/file/open/607_ebc9fb02d961/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%201.pdf)
